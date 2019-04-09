@@ -7,3 +7,6 @@
 
 2. INCREMENTAL FEW-SHOT LEARNING WITH ATTENTION ATTRACTOR NETWORKS [[pdf]](https://openreview.net/pdf?id=rkxn7nR5KX)
   (ICLR 2019 review)
+
+3. FEW-SHOT LEARNING WITH GRAPH NEURAL NETWORKS [[pdf]](https://arxiv.org/pdf/1711.04043.pdf)
+  (ICLR 2018)
