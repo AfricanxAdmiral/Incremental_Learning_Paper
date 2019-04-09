@@ -19,3 +19,6 @@
 
 6. MEMORY-BASED PARAMETER ADAPTATION [[pdf]](https://arxiv.org/pdf/1802.10542.pdf)
   (ICLR 2018)
+
+7. Low-Shot Learning from Imaginary Data [[pdf]](https://arxiv.org/pdf/1801.05401v2.pdf)
+(CVPR 2018)
